@@ -3,16 +3,16 @@
 #### By **CNjuguna}**
 ## Description
 Open the below link on any browser
-https://github.com/CNjugunaRPA/BirthdayApp.git
+https://cnjugunarpa.github.io/BirthdayApp/
 My application's purpose is to allows users to input their birthday date and calculates the day of the week they were born, then depending on their gender outputs their Akan Name 
 Open the below link on any browser 
-https://github.com/CNjugunaRPA/BirthdayApp.git
+https://cnjugunarpa.github.io/BirthdayApp/
 ## Setup/Installation Requirements
 * Install any Web browser
 * Ensure you have internet connection
 * Open link on the browser
 Open the below link on any browser 
-https://github.com/CNjugunaRPA/BirthdayApp.git
+https://cnjugunarpa.github.io/BirthdayApp/
 ## Known Bugs
 No Known bugs
 ## Technologies Used
